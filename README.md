@@ -1,4 +1,4 @@
-# Four repositories used for ALICE analysis
+# Several repositories used for ALICE analysis
 
 ## Efficiency
 To compute the acceptance and efficiency factors
@@ -13,3 +13,11 @@ For studies on dissociative events, mainly to make sure that given the kinematic
 ## SignalExtraction
 
 Signal extraction in the JPsi mass region. In the subfolder GammaGammaStudy, it is signal extraction in the sidebands.
+
+## OnlineAnalysis
+
+To get input root files for the analysis
+
+## PileUp
+
+For pile-up studies using CTRUE events
